@@ -4,7 +4,7 @@ The easiest way to understand C++11's new features is by trying to understand ho
 
 By doing this we get an intro into :
 
-Lambda syntax and usage
-Variadic templates and tuple.
-initializer list
-auto type deduction
+1) Lambda syntax and usage
+2) Variadic templates and tuple.
+3) initializer list
+4) auto type deduction

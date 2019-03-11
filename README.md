@@ -11,9 +11,9 @@ By doing this we get an intro into :
 
 Refer the examples in this order : 
 
-[first step toward lambda](https://github.com/SKashyap/Lambda-Understanding/blob/master/Lambda.h)
+[first step : Lambda.h](https://github.com/SKashyap/Lambda-Understanding/blob/master/Lambda.h)
 
-[second step toward lambda](https://github.com/SKashyap/Lambda-Understanding/blob/master/LambdaPart2.h)
+[second step : LambdaPart2/h](https://github.com/SKashyap/Lambda-Understanding/blob/master/LambdaPart2.h)
 
 
 
